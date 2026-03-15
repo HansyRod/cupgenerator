@@ -39,6 +39,9 @@
     <ClInclude Include="signatures.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="RVGLStructs.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="core.cpp">

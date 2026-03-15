@@ -256,6 +256,7 @@
     <ClInclude Include="MinHook.h" />
     <ClInclude Include="obtainmod.h" />
     <ClInclude Include="opponentsmod.h" />
+    <ClInclude Include="RVGLStructs.h" />
     <ClInclude Include="signatures.h" />
   </ItemGroup>
   <ItemGroup>
