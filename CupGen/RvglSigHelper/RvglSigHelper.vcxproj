@@ -150,7 +150,7 @@
       <PrecompiledHeaderFile>
       </PrecompiledHeaderFile>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\ilari\source\repos\CupGen\CupGen\common</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\common;C:\Users\ilari\source\repos\CupGen\CupGen\common</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -171,7 +171,7 @@
       <PrecompiledHeaderFile>
       </PrecompiledHeaderFile>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\ilari\source\repos\CupGen\CupGen\common</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\common;C:\Users\ilari\source\repos\CupGen\CupGen\common</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
